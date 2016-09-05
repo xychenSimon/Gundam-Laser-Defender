@@ -1,2 +1,3 @@
 # Gundam-Laser-Defender
-A laser defender type game
+Gundam shooting lasers to destroy enimies
+play at:https://www.dropbox.com/s/ub5pqgi397ugvmu/Gundam_laser.html?dl=0
